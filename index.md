@@ -22,7 +22,7 @@ Anyone from the age of seven to seventeen can visit our Dojo and learn how to co
     #mapdiv { width:350px; height:250px; }
     div.olControlAttribution { bottom:3px; }
 </style>
-<script src="http://www.openlayers.org/api/OpenLayers.js"></script>
+<script src="https://www.openlayers.org/api/OpenLayers.js"></script>
 <script>
     map = new OpenLayers.Map("mapdiv");
     var mapnik = new OpenLayers.Layer.OSM();
