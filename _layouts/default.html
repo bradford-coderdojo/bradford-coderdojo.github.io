@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>{{ page.title }}</title>
+		<title>Bradford CoderDojo - {{ page.title }}</title>
 		<meta name="viewport" content="width=device-width">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <link rel="stylesheet" type="text/css" href="/css/style.css">
@@ -10,15 +10,16 @@
         <header>
             <nav>
                 <ul>
+                    <li class="logo" aria-hidden="true"><a href="/" aria-label="Homepage"><img src="/assets/website/logo.svg" /></a></li>
                     <li><a href="/">Home</a></li>
-                    <li><a href="/about">About</a></li>
+                    <li><a href="/project">Projects</a></li>
                     <li><a href="/blog">Blog</a></li>
+                    <li><a href="/about">About</a></li>
                 </ul>
             </nav>
-        </header>
-        <main>
+        </header><main><section>
           {{ content }}
-        </main>
+        </section></main>
         <footer>
         </footer>
 	</body>

@@ -9,3 +9,4 @@ date: 2016-12-10
 And it really was that easy.
 The site was set up using [Jonathan McGlone's excellent tutorial](http://jmcglone.com/guides/github-pages/) with a sprinking of design provided by [Jeremy Thomas's Web Design in 4 minutes](http://jgthms.com/web-design-in-4-minutes)
 
+To get started check out the [website project](/project/website)

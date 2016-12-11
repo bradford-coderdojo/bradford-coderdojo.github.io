@@ -10,8 +10,16 @@ html {
 
 /* Centering */
 body {
+    margin: 0
+}
+
+header > *, main > *, footer > * {
   margin: 0 auto;
-  max-width: 50em;
+  max-width: 56em;
+}
+
+header, main, footer {
+    padding: 1em;
 }
 
 /* Font family */
@@ -22,7 +30,6 @@ body {
 /* Spacing */
 body {
   line-height: 1.5;
-  padding: 4em 1em;
 }
 
 h2 {
@@ -34,6 +41,20 @@ h2 {
 body {
   color: #555;
 }
+
+body {
+  background: white;
+}
+
+header {
+    background: black;
+    color: white;
+}
+
+header a {
+    font-weight: 700;
+    color: white;
+}  
 
 h1,
 h2,
@@ -78,11 +99,30 @@ pre {
 }
 
 /* Navigation */
+
 nav ul, footer ul {
     padding: 0px;
     list-style: none;
 }
 nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 1em;
 }
+
+nav ul li.logo {
+    display: block;
+    margin-bottom: 1em;
+} 
+ nav ul .logo img {
+     height: 6em;
+ }
+ 
+ nav ul {
+     margin: 0;
+ }
+ 
+ /* heading 1 */
+ h1 {
+     margin-top: 0px;
+ }
