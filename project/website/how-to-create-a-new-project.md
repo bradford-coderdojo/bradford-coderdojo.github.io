@@ -8,7 +8,8 @@ __Tip:__  _Hold Ctrl / Command button when clicking a link to open it in a new p
 
 1. If you do not have one, [create a new account](https://github.com/join) on GitHub (choose the free plan and do not worry about creating a project at the end, but do verify your email address).
 2. Find the [Bradford CoderDojo](https://github.com/bradford-coderdojo/bradford-coderdojo.github.io) repository in GitHub
-3. Clone the repository ![Picture showing where the clone button is in GitHub](/assets/website/instructions-clone.jpg "Clone example")
+3. Clone the repository  
+![Picture showing where the clone button is in GitHub](/assets/website/instructions-clone.jpg "Clone example")
 4. Choose "Open in Desktop"
 5. If you don't have GitHub desktop - download and install it now.  Log in, go to the dashboard and then go back to 2
 6. If you do have GitHub desktop but it just keeps opening the download page - make sure you are signed into the GitHub website.
@@ -20,7 +21,8 @@ __Tip:__  _Hold Ctrl / Command button when clicking a link to open it in a new p
 12. Create a new entry in the index.md file as follows  
 `[The name of your new project](/project/my-project-name)`
     Changing the name of 'my-project-name' to what ever you want to call your project
-13. Create a new folder to store you project files in under the project folder - make sure the name is the same as what your called it in the line you have just entered in instruction 12
+13. Create a new folder to store you project files in under the project folder - make sure the name is the same as what your called it in the line you have just entered in instruction 12  
+![Picture showing where to create a new folder in windows](/assets/website/instructions-new-folder.jpg "New folder example")
 14. Create a new file in this folder called 'index.md' and populate it with the following (change the date, title and put whatever you want in)  
 
 ~~~~
