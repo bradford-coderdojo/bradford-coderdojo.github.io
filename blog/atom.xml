@@ -1,0 +1,27 @@
+---
+layout: feed
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>Bradford CoderDojo Blob</title>
+	<link href="http://bradford-coderdojo.github.io/blog/atom.xml" rel="self"/>
+	<link href="http://bradford-coderdojo.github.io/blog"/>
+	<updated>{{ site.time | date_to_xmlschema }}</updated>
+	<id>http://bradford-coderdojo.github.io/blog</id>
+	<author>
+		<name>Bradfrod CoderDojo</name>
+		<email>jonnymoo@hotmail.com</email>
+	</author>
+
+	{% for post in site.posts %}
+		<entry>
+			<title>{{ post.title }}</title>
+			<link href="http://bradford-coderdojo.github.io{{ post.url }}"/>
+			<updated>{{ post.date | date_to_xmlschema }}</updated>
+			<id>http://bradford-coderdojo.github.io{{ post.id }}</id>
+			<content type="html">{{ post.content | xml_escape }}</content>
+		</entry>
+	{% endfor %}
+
+</feed>
