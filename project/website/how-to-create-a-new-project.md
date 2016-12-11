@@ -4,7 +4,7 @@ title: "How to create a new project"
 date: 2016-12-10
 ---
 
-__Tip:__  _Hold Ctrl / Command button when clicking a link to open it in a new page_ 
+__Tip:__  _Hold Ctrl or &#8984; button when clicking a link to open it in a new tab_ 
 
 1. If you do not have one, [create a new account](https://github.com/join) on GitHub (choose the free plan and do not worry about creating a project at the end, but do verify your email address).
 2. Find the [Bradford CoderDojo](https://github.com/bradford-coderdojo/bradford-coderdojo.github.io) repository in GitHub
@@ -17,26 +17,31 @@ __Tip:__  _Hold Ctrl / Command button when clicking a link to open it in a new p
 8. Open the repository in explorer - by default on windows this will take you to documents\GitHub\bradford-coderdojo.github.io
 9. Open the project folder
 10. Open the index.md file in an editor of your choice (notepad will do on windows)
-11. The file is in a language called MarkDown (as are these instructions) - [This cheatsheet will help you](https://en.support.wordpress.com/markdown-quick-reference/)
+11. The file is in a language called MarkDown (as are these instructions) - [This cheatsheet will help you](https://en.support.wordpress.com/markdown-quick-reference/)  
 12. Create a new entry in the index.md file as follows  
-`[The name of your new project](/project/my-project-name)`
-    Changing the name of 'my-project-name' to what ever you want to call your project
+
+    ~~~~~
+    [The name of your new project](/project/my-project-name)
+    ~~~~~
+Changing the name of 'my-project-name' to what ever you want to call your project
 13. Create a new folder to store you project files in under the project folder - make sure the name is the same as what your called it in the line you have just entered in instruction 12  
-![Picture showing where to create a new folder in windows](/assets/website/instructions-new-folder.jpg "New folder example")
+    ![Picture showing where to create a new folder in windows](/assets/website/instructions-new-folder.jpg "New folder example")
 14. Create a new file in this folder called 'index.md' and populate it with the following (change the date, title and put whatever you want in)  
-__Tip:__ When creating the file make sure that windows explorer isn't hiding the file extension other wise you can't easily change it from a txt document.  You can change it like this:  
-![Picture showing how to turn on file extensions in windows explorer](/assets/website/instructions-file-extensions.jpg "Turn on file extensions")
+    __Tip:__ When creating the file make sure that windows explorer isn't hiding the file extension other wise you can't easily change it from a txt document.  You can change it like this:  
+    ![Picture showing how to turn on file extensions in windows explorer](/assets/website/instructions-file-extensions.jpg "Turn on file extensions")
 
-~~~~
----
-layout: default
-title: "My turnip project"
-date: 2016-12-10
----
-#Is the turnip underrated?
-They are clearly inedible.  Why do people insist on cooking them?
+    ~~~~
+    ---
+    layout: default
+    title: "My turnip project"
+    date: 2016-12-10
+    ---
+    #Is the turnip underrated?
+    They are clearly inedible.  Why do people insist on cooking them?
 
-Here are [some great turnip recipes](http://www.bbc.co.uk/food/turnip) to get us started
-~~~~
+    Here are [some great turnip recipes](http://www.bbc.co.uk/food/turnip) to get us started
+    ~~~~
 15. Save it.
 16. Go back to GitHub Desktop, enter a comment, commit it and sync it back to GitHub.
+    ![Picture showing how to choose project, select changes, fill in a comment, commit and sync in GitHub desktop](/assets/website/instructions-sync.jpg "Sync to GitHub repository")
+

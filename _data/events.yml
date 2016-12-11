@@ -1,0 +1,59 @@
+- name: CoderDojo January
+  date: 2017-01-28
+  time: 09:30 - 12:00
+  detail: "[Register](http://www.ticbradford.com/index.php?option=com_rsform&view=rsform&formId=81)"
+
+- name: CoderDojo February
+  date: 2017-02-18
+  time: 09:30 - 12:00
+  detail: Available soon
+
+- name: CoderDojo March
+  date: 2017-03-25
+  time: 09:30 - 12:00
+  detail: Available soon
+
+- name: CoderDojo April
+  date: 2017-04-29
+  time: 09:30 - 12:00
+  detail: Available soon
+
+- name: CoderDojo May
+  date: 2017-05-20
+  time: 09:30 - 12:00
+  detail: Available soon
+
+- name: CoderDojo June
+  date: 2017-06-17
+  time: 09:30 - 12:00
+  detail: Available soon
+
+- name: CoderDojo July
+  date: 2017-07-15
+  time: 09:30 - 12:00
+  detail: Available soon
+  
+- name: No CoderDojo August
+  date:
+  time:
+  detail:
+  
+- name: CoderDojo September
+  date: 2017-09-30
+  time: 09:30 - 12:00
+  detail: Available soon
+  
+- name: CoderDojo October
+  date: 2017-10-28
+  time: 09:30 - 12:00
+  detail: Available soon
+  
+- name: CoderDojo November
+  date: 2017-11-25
+  time: 09:30 - 12:00
+  detail: Available soon
+  
+- name: CoderDojo December
+  date: 2017-12-16
+  time: 09:30 - 12:00
+  detail: Available soon
