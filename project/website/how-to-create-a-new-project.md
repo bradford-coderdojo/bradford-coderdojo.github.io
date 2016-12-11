@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "How to start a new project"
+title: "How to create a new project"
 date: 2016-12-10
 ---
 
-1. Install a Git client - such as [GitHubDesktop](https://desktop.github.com/)
+1. Find the [Bradford CoderDojo](https://github.com/bradford-coderdojo/bradford-coderdojo.github.io) repository in GitHub
 
