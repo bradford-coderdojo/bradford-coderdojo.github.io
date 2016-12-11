@@ -4,7 +4,7 @@ title: "How to create a new project"
 date: 2016-12-10
 ---
 
-Tip:  Hold Ctrl / Command button when clicking a link to open it in a new page 
+__Tip:__  _Hold Ctrl / Command button when clicking a link to open it in a new page_ 
 
 1. If you do not have one, [create a new account](https://github.com/join) on GitHub (choose the free plan and do not worry about creating a project at the end, but do verify your email address).
 2. Find the [Bradford CoderDojo](https://github.com/bradford-coderdojo/bradford-coderdojo.github.io) repository in GitHub
