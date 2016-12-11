@@ -26,6 +26,7 @@ __Tip:__  _Hold Ctrl / Command button when clicking a link to open it in a new p
 14. Create a new file in this folder called 'index.md' and populate it with the following (change the date, title and put whatever you want in)  
 __Tip:__ When creating the file make sure that windows explorer isn't hiding the file extension other wise you can't easily change it from a txt document.  You can change it like this:  
 ![Picture showing how to turn on file extensions in windows explorer](/assets/website/instructions-file-extensions.jpg "Turn on file extensions")
+
 ~~~~
 ---
 layout: default
