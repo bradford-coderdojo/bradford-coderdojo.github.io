@@ -22,6 +22,7 @@ __Tip:__  _Hold Ctrl / Command button when clicking a link to open it in a new p
     Changing the name of 'my-project-name' to what ever you want to call your project
 13. Create a new folder to store you project files in under the project folder - make sure the name is the same as what your called it in the line you have just entered in instruction 12
 14. Create a new file in this folder called 'index.md' and populate it with the following (change the date, title and put whatever you want in)  
+
 ~~~~
 ---
 layout: default
