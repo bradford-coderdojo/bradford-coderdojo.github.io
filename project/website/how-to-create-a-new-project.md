@@ -17,12 +17,12 @@ __Tip:__  _Hold Ctrl / Command button when clicking a link to open it in a new p
 9. Open the project folder
 10. Open the index.md file in an editor of your choice (notepad will do on windows)
 11. The file is in a language called MarkDown (as are these instructions) - [This cheatsheet will help you](https://en.support.wordpress.com/markdown-quick-reference/)
-12. Create a new entry in the index.md file as follows
+12. Create a new entry in the index.md file as follows  
 `[The name of your new project](/project/my-project-name)`
     Changing the name of 'my-project-name' to what ever you want to call your project
 13. Create a new folder to store you project files in under the project folder - make sure the name is the same as what your called it in the line you have just entered in instruction 12
-14. Create a new file in this folder called 'index.md' and populate it with the following (change the date, title and put whatever you want in)
-```
+14. Create a new file in this folder called 'index.md' and populate it with the following (change the date, title and put whatever you want in)  
+~~~~
 ---
 layout: default
 title: "My turnip project"
@@ -32,7 +32,7 @@ date: 2016-12-10
 They are clearly inedible.  Why do people insist on cooking them?
 
 Here are [some great turnip recipes](http://www.bbc.co.uk/food/turnip) to get us started
-```
+~~~~
 
 15. Save it.
 16. Go back to GitHub Desktop, enter a comment, commit it and sync it back to GitHub.
