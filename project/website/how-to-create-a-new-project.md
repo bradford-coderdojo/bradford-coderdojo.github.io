@@ -39,7 +39,5 @@ Here are [some great turnip recipes](http://www.bbc.co.uk/food/turnip) to get us
 
 __Tip:__ When creating the file make sure that windows explorer isn't hiding the file extension other wise you can't easily change it from a txt document.  You can change it like this:  
 ![Picture showing how to turn on file extensions in windows explorer](/assets/website/instructions-file-extensions.jpg "Turn on file extensions")
-
-
 15. Save it.
 16. Go back to GitHub Desktop, enter a comment, commit it and sync it back to GitHub.
