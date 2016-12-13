@@ -9,7 +9,7 @@ __Tip:__  _Hold Ctrl or &#8984; button when clicking a link to open it in a new 
 1. If you do not have one, [create a new account](https://github.com/join) on GitHub (choose the free plan and do not worry about creating a project at the end, but do verify your email address).
 2. Find the [Bradford CoderDojo](https://github.com/bradford-coderdojo/bradford-coderdojo.github.io) repository in GitHub
 3. Clone the repository  
-![Picture showing where the clone button is in GitHub](/assets/website/instructions-clone.jpg "Clone example")
+![Picture showing where the clone button is in GitHub](/assets/website/instructions-clone.jpg "Clone example"){: srcset="/assets/website/instructions-clone@2x.jpg 2x, /assets/website/instructions-clone.jpg 600w, /assets/website/instructions-clone@0,5x.jpg 300w, /assets/website/instructions-clone@0,25x.jpg 150w" }
 4. Choose "Open in Desktop"
 5. If you don't have GitHub desktop - download and install it now.  Log in, go to the dashboard and then go back to 2
 6. If you do have GitHub desktop but it just keeps opening the download page - make sure you are signed into the GitHub website.
