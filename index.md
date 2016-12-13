@@ -15,7 +15,7 @@ Anyone from the age of seven to seventeen can visit our Dojo and learn how to co
 {{ event.detail | markdownify }}
 {% endfor %}
 
-## Find us test
+## Find us
 
 <div id="map" class="map"></div>
 <link rel="stylesheet" href="https://openlayers.org/en/v3.20.0/css/ol.css" type="text/css">
