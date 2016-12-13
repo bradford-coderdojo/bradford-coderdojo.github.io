@@ -132,3 +132,11 @@ nav ul li.logo {
  h1 {
      margin-top: 0px;
  }
+ 
+ 
+ /* Max sizes to prevent mobile view from stretching */
+ section img {
+   max-width: 80vw;
+ }
+ 
+ pre { white-space:pre-wrap; word-wrap:break-word; overflow:auto; }
