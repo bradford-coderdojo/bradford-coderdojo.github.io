@@ -5,6 +5,7 @@ date: 2016-12-10
 ---
 
 __Tip:__  _Hold Ctrl or &#8984; button when clicking a link to open it in a new tab_ 
+{: .touch-hidden}
 
 1. If you do not have one, [create a new account](https://github.com/join) on GitHub (choose the free plan and do not worry about creating a project at the end, but do verify your email address).
 2. Find the [Bradford CoderDojo](https://github.com/bradford-coderdojo/bradford-coderdojo.github.io) repository in GitHub

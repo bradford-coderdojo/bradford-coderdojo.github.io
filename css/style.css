@@ -140,3 +140,7 @@ nav ul li.logo {
  }
  
  pre { white-space:pre-wrap; word-wrap:break-word; overflow:auto; }
+ 
+ .touch .touch-hidden {
+     display: none;
+ }
