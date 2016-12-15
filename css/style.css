@@ -18,8 +18,18 @@ header > *, main > *, footer > * {
   max-width: 56em;
 }
 
+/* Bit of padding for main content */
+
 header, main, footer {
     padding: 1em;
+}
+
+/* Reduce padding for very small screens */
+@media only screen and (max-device-width: 320px) {
+    header, main, footer {
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+    }
 }
 
 /* Font family */
@@ -114,7 +124,13 @@ nav ul li, footer ul li {
     display: inline-block;
     vertical-align: middle;
     padding-right: 1em;
+    margin-top: 1em;
 }
+nav ul li:last-of-type, footer ul li:last-of-type {
+    padding-right: 0;
+}
+
+
 
 nav ul li.logo {
     display: block;
@@ -134,11 +150,16 @@ nav ul li.logo {
  }
  
  
- /* Max sizes to prevent mobile view from stretching */
- section img, section iframe {
+ /*Some default max sizes to prevent mobile view from stretching */
+ section img {
    max-width: 80vw;
  }
  
+ section iframe {
+   max-width: 90vw;
+ }
+
+ /* A class to hide stuff if on a touch device*/
  pre { white-space:pre-wrap; word-wrap:break-word; overflow:auto; }
  
  .touch .touch-hidden {
