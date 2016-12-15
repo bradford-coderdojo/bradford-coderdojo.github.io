@@ -135,7 +135,7 @@ nav ul li.logo {
  
  
  /* Max sizes to prevent mobile view from stretching */
- section img {
+ section img, section iframe {
    max-width: 80vw;
  }
  
