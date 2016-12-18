@@ -8,7 +8,7 @@ __Tip:__  _Hold Ctrl or &#8984; button when clicking a link to open it in a new 
 {: .touch-hidden}
 
 1. If you do not have one, [create a new account](https://github.com/join) on GitHub (choose the free plan and do not worry about creating a project at the end, but do verify your email address).
-2. Find the [_posts folder](https://github.com/bradford-coderdojo/bradford-coderdojo.github.io) in the bradford coderdojo github repository
+2. Find the [_posts folder](https://github.com/bradford-coderdojo/bradford-coderdojo.github.io/tree/master/_posts) in the bradford coderdojo github repository
 3. Create a new mark down file.  
     ![Picture showing how to create a new file in github](/assets/website/create new blog file_new file.jpg "Create a new blog post")
 4. Call it YYYY-MM-DD- _title of the post_ .md  
