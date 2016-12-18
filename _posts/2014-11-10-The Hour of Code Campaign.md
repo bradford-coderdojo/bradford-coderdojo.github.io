@@ -2,7 +2,7 @@
 layout: post
 excerpt: "During the week of December 8th – 14th, we are supporting the Hour of Code campaign.  "
 ---
-<a href="http://hourofcode.com/uk"><img class="alignleft size-full wp-image-2387" title="hour of code image for blog" src="http://theblog.is/lac/files/2014/11/hour-of-code-image-for-blog.png" alt="" width="958" height="290" srcset="http://theblog.is/lac/files/2014/11/hour-of-code-image-for-blog.png 958w, http://theblog.is/lac/files/2014/11/hour-of-code-image-for-blog-300x90.png 300w" sizes="(max-width: 958px) 100vw, 958px"></a>
+<a href="http://hourofcode.com/uk"><img class="alignleft size-full wp-image-2387" title="hour of code image for blog" src="http://theblog.is/lac/files/2014/11/hour-of-code-image-for-blog.png" alt="The hour of code image" width="958" height="290" srcset="http://theblog.is/lac/files/2014/11/hour-of-code-image-for-blog.png 958w, http://theblog.is/lac/files/2014/11/hour-of-code-image-for-blog-300x90.png 300w" sizes="(max-width: 958px) 100vw, 958px"></a>
 During the week of December 8th – 14th, we are supporting the Hour of Code campaign.
 Last year 15 million students tried computer science in one week around the world and since March over 3 million students have tried an hour of code in the UK.
 This time the target is to reach 100 million students globally!
