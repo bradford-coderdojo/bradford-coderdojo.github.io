@@ -1,3 +1,7 @@
-test
+My plans for CoderDojo are:
 
-this is a test.
+I think we should have a look at the Raspberry Pi's and do some Physical Computing/Coding with python.
+
+www.raspberrypi.org/learning/physical-computing-with-python/
+
+Luke Holmes
