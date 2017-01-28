@@ -1,1 +1,3 @@
-Bradford CoderDojo's Blog
+ideas for project:
+
+create scratch tutorial,
