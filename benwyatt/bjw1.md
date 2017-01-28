@@ -1,6 +1,6 @@
 ideas for project:
 
-create scratch tutorial:
+create html website scratch tutorial:
 
 EASY STUFF:
 
@@ -15,3 +15,5 @@ VARIABLES - EASY
 keeping score and high score or timers
 
 VARIABLES - VERY COMPLICATED
+
+using binary variables for conditions
