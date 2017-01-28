@@ -1,8 +1,4 @@
 #Project Ideas
-I don't have any
 
-###Python
-I don't have any
+Make a website (html?, wordpress?, Joomla?)
 
-###HTML
-I don't have any
