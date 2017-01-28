@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bradford Coderdojo, Launches Site"
+title: "Bradford Coderdojo, Launches New Site"
 date: 2016-12-10
 ---
 

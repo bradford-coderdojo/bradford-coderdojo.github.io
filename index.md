@@ -12,7 +12,9 @@ Anyone from the age of seven to seventeen can visit our Dojo and learn how to co
 {% if event.date != nil %}
 {{ event.date | date_to_string }} at {{ event.time }}
 {% endif %}
+{% if event.detail != nil %}
 {{ event.detail | markdownify }}
+{% endif %}
 {% endfor %}
 
 ## Find us
