@@ -11,12 +11,9 @@ how to broadcast to other sprites
 don't recommend scratch image editor! - use 3rd party RWPaint
 changing sprite size, colour etc...
 using ink
+keeping score and high score
 
-VARIABLES - EASY
+HARD STUFF:
 
-keeping score and high score or timers
-
-
-VARIABLES - VERY COMPLICATED
-
-using binary variables for conditions
+using variables for conditions
+timers
