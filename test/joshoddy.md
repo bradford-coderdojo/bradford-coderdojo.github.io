@@ -1,7 +1,6 @@
-hello world
-game
+Develop a game with the following characteristics
 tricky
 takes time to complete
-several different levels
-taking penaltys 
-each level the diffuculty gets harder
+several different levels increasing in difficulty
+sport related
+potentially something music related
