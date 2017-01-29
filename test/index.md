@@ -13,6 +13,7 @@ title: Plans
 - [Katie's plans](katiel) 
 - [Bens's plans](benwyatt/Ideas_for_project_BJW1)  
 - [shi's plans](shi)  
+- [jonny's plans](jonny)
 
 
 
