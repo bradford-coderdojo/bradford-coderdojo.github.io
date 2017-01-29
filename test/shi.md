@@ -1,4 +1,12 @@
 
-this is a plan of what i would like to do in coder dojo :}
+# This is a header and it is big
 
-i would like to create a map of locations from open data.
+## This is a smaller header
+
+### An even smaller header
+
+**this should be bold**
+
+*this should be italicised*
+
+If none of the above is working, it's jekyll's fault.
