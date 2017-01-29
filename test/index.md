@@ -3,15 +3,15 @@ layout: default
 title: Plans
 ---
 
-## Cunning plans
+# Cunning plans
 
 
-- [Matt's plans](/test/Matt.html)  
-- [Denis's plans](/test/denis.html)  
-- [Josh's plans](/test/joshoddy.html)  
-- [Luke's plans](/test/luke.html)  
-- [Katie's plans](/test/katiel.html) 
-- [Bens's plans](/test/benwyatt/Ideas_for_project_BJW1.html)  
+- [Matt's plans](Matt)  
+- [Denis's plans](denis)  
+- [Josh's plans](joshoddy)  
+- [Luke's plans](luke)  
+- [Katie's plans](katiel) 
+- [Bens's plans](benwyatt/Ideas_for_project_BJW1)  
 - [shi's plans](shi)  
 
 
