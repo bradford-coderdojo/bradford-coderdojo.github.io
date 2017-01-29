@@ -1,3 +1,8 @@
+---
+layout: default
+title: Plans
+---
+
 Develop a game with the following characteristics
 tricky
 takes time to complete

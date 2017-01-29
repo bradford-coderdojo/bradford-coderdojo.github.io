@@ -1,3 +1,8 @@
+---
+layout: default
+title: Plans
+---
+
 #Project Ideas
 
 ###Make a website (HTML?, Wordpress?, Joomla?)

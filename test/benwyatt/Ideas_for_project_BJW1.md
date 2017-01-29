@@ -1,3 +1,8 @@
+---
+layout: default
+title: Plans
+---
+
 ideas for project:
 
 create html website scratch tutorial:
