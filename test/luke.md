@@ -9,4 +9,4 @@ I think we should have a look at the Raspberry Pi's and do some Physical Computi
 
 www.raspberrypi.org/learning/physical-computing-with-python/
 
-<img src="PI.png"/>
+<img src="PI.png" alt="pictures of pi projects"/>
