@@ -11,7 +11,7 @@ title: Projects
 - [Louisa's turnip project](/project/turnips)
 
 - [Try out our Game Project BLTM!](/test/bltm)
-	We are working on a platform game collaboratively
+    We are working on a platform game collaboratively
 
 
 
