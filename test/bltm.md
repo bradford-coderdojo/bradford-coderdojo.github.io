@@ -1,8 +1,12 @@
+---
+layout: default
+title: Plans
+---
 
-Try out our Game Project BLTM!
+# Try out our Game Project BLTM!
 
 Bacon, Lettuce, Tomato and Mayo!
 
 Packed with tasty fun!
 
-www.bradford-coderdpjo.github.io/bltm
+<a href="http://www.bradford-coderdojo.github.io/bltm">http://www.bradford-coderdojo.github.io/bltm</a>
