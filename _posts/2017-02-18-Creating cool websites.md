@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-Following on the amazing work by Si last session, our Dojo-ers took to creating web sites of there own.
+Following on from the amazing work done by the coders led by Si last session, we took to improving our skills.
 We started the session with a quick recap, and many had prepared content of there own between sessions.
 
 We explored what we wanted to do:
