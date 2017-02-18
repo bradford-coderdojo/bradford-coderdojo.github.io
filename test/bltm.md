@@ -9,4 +9,4 @@ Bacon, Lettuce, Tomato and Mayo!
 
 Packed with tasty fun!
 
-<a href="http://www.bradford-coderdojo.github.io/bltm">http://www.bradford-coderdojo.github.io/bltm</a>
+<a href="https://bradford-coderdojo.github.io/bltm/">https://bradford-coderdojo.github.io/bltm/</a>
