@@ -8,4 +8,5 @@ The Innovation Centre, Bradford Digital Exchange, Little Germany, Bradford, BD15
 
 
 ## Contact us
-&#9993; <bradford.uk@coderdojo.com>
+&#9993; <bradford.uk@coderdojo.com><br/>
+:bird: [@coderdojobd](https://twitter.com/coderdojobd)
