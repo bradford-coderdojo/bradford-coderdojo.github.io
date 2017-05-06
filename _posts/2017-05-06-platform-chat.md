@@ -10,7 +10,7 @@ During the session, we learned how context was key when you are designing a game
 
 
 ![session1](/assets/2017-05-06-session1.jpg)
-*There was such tangible excitement in there, you could feel it!*
+*There was such tangible excitement in the air, you could feel it!*
 
 ![session2](/assets/2017-05-06-session2.jpg)
 *Ben showin his platform game to a first timer to the Coder Dojo.*
