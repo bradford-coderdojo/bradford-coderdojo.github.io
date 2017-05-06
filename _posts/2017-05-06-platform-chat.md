@@ -13,7 +13,7 @@ During the session, we learned how context was key when you are designing a game
 *There was such tangible excitement in the air, you could feel it!*
 
 ![session2](/assets/2017-05-06-session2.jpg)
-*Ben showin his platform game to a first timer to the Coder Dojo.*
+*Ben showing his platform game to a first timer to the Coder Dojo.*
 
 
 We are still working on our games but you can already play our early prototypes on the browser - _It might take a while to load so please be patient :)_
