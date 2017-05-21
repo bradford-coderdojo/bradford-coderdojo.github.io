@@ -5,7 +5,7 @@ title: Home
 
 Anyone from the age of seven to seventeen can visit our Dojo and learn how to code, build websites, apps, or games and explore technology in a laid-back, creative, fun and social environment.
 
-Bradford CoderDojo is set up and run by by [our volunteer mentors](/mentors/). 
+Bradford CoderDojo is set up and run by [our volunteer mentors](/mentors/). 
 
 CoderDojo has just one rule: “Above All: Be Cool“
 
