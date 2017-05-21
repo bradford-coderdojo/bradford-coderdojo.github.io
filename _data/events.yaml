@@ -1,22 +1,17 @@
-- name: CoderDojo May
-  date: 2017-05-20
-  time: 09:30 - 12:00
-  detail: "[Register](https://www.eventbrite.co.uk/e/bradford-coderdojo-may-tickets-34175914079)"
-
 - name: CoderDojo June
   date: 2017-06-17
   time: 09:30 - 12:00
-  detail: Available soon
+  detail: Tickets available week commencing Monday 22 May [on Eventbrite](https://www.eventbrite.co.uk/o/bradford-coderdojo-12826457072)
 
 - name: CoderDojo July
   date: 2017-07-15
   time: 09:30 - 12:00
   detail: Available soon
   
-- name: No CoderDojo August
+- name: CoderDojo August
   date:
   time:
-  detail:
+  detail: No Dojo as we will all be on holiday
   
 - name: CoderDojo September
   date: 2017-09-30
