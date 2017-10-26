@@ -5,13 +5,13 @@ The first Bradford CoderDojo took part on Saturday 25th October and was well att
 
 # CoderDojo Session 1 on PhotoPeach
 
-<iframe frameborder="0" height="296" src="http://photopeach.com/embed/v11hr7?mode=spiral" width="445"></iframe>
+<iframe width="445" height="296" src="http://photopeach.com/embed/v11hr7?mode=spiral" frameborder="0"></iframe>
 
 If you are interested in attending the next event check here to find out when the next set of tickets become available.
 
 Some of the resources from the first session can be found below.
 
-## Scratch.
+## Scratch
 
 We recommend you download and install the Scratch 2 offline Editor available [here](http://scratch.mit.edu/scratch2download/).
 
@@ -19,11 +19,8 @@ Some useful Scratch materials for the Dojo session or to use at home can be foun
 
 The Shark Game tutorial can be found here in our [download area](http://www.ticbradford.com/downloads/coderdojo).
 
-Resources from the UK Code Club
+Resources from the UK Code Club can be found [here](https://codeclubprojects.org/en-GB/scratch/).
 
-[Projects 1](http://projects.codeclub.org.uk/en-GB/01_scratch_01/index.html)
-
-[Projects 2](http://projects.codeclub.org.uk/en-GB/02_scratch_02/index.html)
 
 MIT who created and host Scratch have created some useful skills cards available here.
 

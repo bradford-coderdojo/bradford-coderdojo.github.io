@@ -13,4 +13,4 @@ We are working with other programming enthusiasts and experts across the Bradfor
 
 We will be finalising and opening up on-line registration for the forthcoming Dojo shortly.
 
-Further details can be found [here](https://zen.coderdojo.com/dojo/766)
+Further details can be found here - https://zen.coderdojo.com/dojo/766

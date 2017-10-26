@@ -3,7 +3,7 @@ layout: post
 ---
 A big thanks to all the children, parents and mentors who made our second CoderDojo in Bradford another enjoyable and successful experience.
 
-This week we focused on Kodu, a&nbsp;coding resource from Microsoft available to download freely from [here](http://www.microsoft.com/en-gb/download/details.aspx?id=10056)  
+This week we focused on Kodu, a&nbsp;coding resource from Microsoft available to download freely from [here](https://www.kodugamelab.com/)  
 ![Children making games](http://theblog.is/lac/files/2014/12/CD2-image1-300x168.jpg)  
 ![Children making more games](http://theblog.is/lac/files/2014/12/CD2-image2-300x168.jpg)  
 During the session we looked at the basic coding necessary to control our Kodu and fly it around our small world. We then added some coins to collect and some mines to avoid. We programmed the Kodu to add points for the coins to reach a set target to win the game.  
