@@ -19,7 +19,7 @@ Some useful Scratch materials for the Dojo session or to use at home can be foun
 
 The Shark Game tutorial can be found here in our [download area](http://www.ticbradford.com/downloads/coderdojo).
 
-Resources from the UK Code Club can be found [here](https://codeclubprojects.org/en-GB/scratch/).
+Resources from the UK Code Club can be found here - https://codeclubprojects.org/en-GB/scratch/
 
 
 MIT who created and host Scratch have created some useful skills cards available here.
