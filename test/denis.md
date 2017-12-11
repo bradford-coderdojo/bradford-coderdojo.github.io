@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Plans
+title: Projects and Plans
 ---
 
 I want to make a VIRTUAL REALITY game

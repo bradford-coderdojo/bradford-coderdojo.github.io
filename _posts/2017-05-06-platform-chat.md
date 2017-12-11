@@ -3,16 +3,16 @@ layout: post
 ---
 Following on from last month's session, we could finally add dialogue options to our characters in the game!
 
-![mattplatform](/assets/2017-05-06-game.gif)
+![mattplatform](/assets/2017-05-06-game.gif)  
 *Matt is currently working on adding levels to his platformer*
 
 During the session, we learned how context was key when you are designing a game level and writing dialogue to accomodate it. Our platform game may be getting more complex but we should always keep it simple so it is easier to debug it later.
 
 
-![session1](/assets/2017-05-06-session1.jpg)
+![session1](/assets/2017-05-06-session1.jpg)  
 *There was such tangible excitement in the air, you could feel it!*
 
-![session2](/assets/2017-05-06-session2.jpg)
+![session2](/assets/2017-05-06-session2.jpg)  
 *Ben showing his platform game to a first timer to the Coder Dojo.*
 
 

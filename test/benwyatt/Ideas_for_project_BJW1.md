@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Plans
+title: Projects and Plans
 ---
 
 ideas for project:

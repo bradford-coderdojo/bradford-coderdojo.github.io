@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Plans
+title: Projects and Plans
+image: dojo-13
+color: #f0f
 ---
 
-# Cunning plans
-
-
-- [Matt's plans](Matt)  
+- [Matt's plans](Matt)
 - [Denis's plans](denis)  
 - [Josh's plans](joshoddy)  
 - [Luke's plans](luke)  

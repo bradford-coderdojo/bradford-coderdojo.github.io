@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Plans
+title: Projects and Plans
 ---
 
 Develop a game with the following characteristics

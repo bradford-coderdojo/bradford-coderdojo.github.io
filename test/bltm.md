@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Plans
+title: Projects and Plans
+image: dojo-05
 ---
 
 # Try out our Game Project BLTM!

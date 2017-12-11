@@ -14,17 +14,16 @@
         </script>
         <header>
             <nav>
+				<a class="site-logo" href="/" aria-label="Homepage"><img src="/assets/website/logo.svg" alt="Bradford CoderDojo Logo"/></a>
                 <ul>
-                    <li class="logo" aria-hidden="true"><a href="/" aria-label="Homepage"><img src="/assets/website/logo.svg" alt="Bradford CoderDojo Logo"/></a></li>
                     <li><a href="/">Home</a></li>
                     <li><a href="/project">Projects</a></li>
                     <li><a href="/blog">Blog</a></li>
                     <li><a href="/contact">Contact</a></li>
                     <li><a href="/mentors">Mentors</a></li>
-                    <li><a href="/test">Plans</a></li>
                 </ul>
             </nav>
-        </header><main><section>
+        </header><div class="site-splash" style="background-image:url(/assets/{{ page.image }}.jpg), url(/assets/dojo-12.jpg);"><div class="splash-text">{{ page.title }}</div></div><main><section>
           {{ content }}
         </section></main>
         <footer>

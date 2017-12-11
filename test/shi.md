@@ -1,14 +1,9 @@
 ---
+layout: default
+title: Projects and Plans
+image: dojo-13
 ---
 
-# This is a header and it is big
+Make something fun to learn, something cool and music based :}
 
-## This is a smaller header
-
-### An even smaller header
-
-**this should be bold**
-
-*this should be italicised*
-
-If none of the above is working, it's jekyll's fault.
+What can we do for fun whilst learning that we don't think we can do but want to do?
