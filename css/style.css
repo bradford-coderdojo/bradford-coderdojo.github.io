@@ -278,14 +278,14 @@ article {
     border-bottom: 1px solid #ccc;
     display: inline-block;
     vertical-align: top;
-    width: 49%;
+    width: 48%;
     margin-bottom: 1em;
     background-color: #fafafa;
     box-shadow: 0 4px 10px rgba(224, 224, 224, 0.6);
 }
 
 article:nth-of-type(even) {
-    margin-left: 1em;
+    margin-left: 3%;
 }
 
 article p {
@@ -316,7 +316,7 @@ a.post-more {
 
 
 /* Reduce padding for very small screens */
-@media only screen and (max-device-width: 320px) {
+@media only screen and (max-device-width: 768px) {
 	header > *, main > *, footer > * {
 		padding:0 1em;
 	}
@@ -379,5 +379,25 @@ a.post-more {
 		display:block;
 		padding: 0;
 		padding-bottom: 10px;
+	}
+}
+
+@media only screen and (min-device-width: 768px) {
+	nav, nav ul {
+		display:flex;
+		padding:0;
+	}
+	nav ul li, footer ul li, nav ul li:last-of-type, footer ul li:last-of-type {
+		padding-right: 1em;
+    }
+    img[alt^="Picture of"] {
+		display: inline-block; width:initial;
+    }
+    span.mentor-text {
+		display: inline-block;
+		vertical-align: middle;
+		width: 65%;
+		padding-left: 2em;
+		padding-bottom:0;
 	}
 }
