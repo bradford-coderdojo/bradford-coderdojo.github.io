@@ -15,6 +15,12 @@ body {
 
 nav {
   display: flex;
+  display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+  display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+  display: -ms-flexbox;      /* TWEENER - IE 10 */
+  display: -webkit-flex;     /* NEW - Chrome */
+  -moz-box-align: center;
+  -ms-box-align: center;
   -webkit-box-align: center;
   align-items: center;
 }
@@ -215,6 +221,10 @@ nav ul, footer ul {
     width: 100%;
     justify-content: flex-end;
     display: flex;
+	display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+	display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+	display: -ms-flexbox;      /* TWEENER - IE 10 */
+	display: -webkit-flex;     /* NEW - Chrome */
 }
 nav ul li, footer ul li {
     padding-right: 1em;
@@ -241,7 +251,10 @@ nav ul li.logo {
      margin: 0;
  }
 
- 
+.article_wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
  
  /*Some default max sizes to prevent mobile view from stretching */
  section img {

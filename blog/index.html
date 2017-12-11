@@ -4,6 +4,7 @@ title: Blog
 image: dojo-00
 ---
 
+<div class="article_wrap">
 {% for post in paginator.posts %}
 <article>
     <a class="post-title" href="{{ post.url }}">{{ post.title }}</a>
@@ -19,6 +20,7 @@ image: dojo-00
     {% endif %}
 </article>
 {% endfor %} 
+</div>
 {% if paginator.total_pages > 1 %}
     {% if paginator.previous_page %}
         <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Previous page</a>
