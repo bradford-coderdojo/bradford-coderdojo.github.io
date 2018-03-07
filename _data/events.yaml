@@ -1,12 +1,7 @@
-- name: CoderDojo February
-  date: 2018-02-24
-  time: 09:30 - 12:00
-  detail: CANCELLED
-  
 - name: CoderDojo March
   date: 2018-03-24
   time: 09:30 - 12:00
-  detail: Available after the previous CoderDojo
+  detail:"[Register](https://www.eventbrite.co.uk/e/bradford-coderdojo-march-2018-tickets-43744986432)"
   
 - name: CoderDojo April
   date: 2018-04-28
