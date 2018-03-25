@@ -31,4 +31,4 @@ we are always looking to do new things.
 If there is something you want to learn but not sure how, let us know 
 and we'll figure it out together.
 
-Hope to see you next month!
+See you next month!
