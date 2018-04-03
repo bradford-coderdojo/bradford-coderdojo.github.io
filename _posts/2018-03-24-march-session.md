@@ -20,7 +20,7 @@ Nice work embedding YouTube videos in your site, William!
 ![sam](/assets/2018-03-24-6.jpg)  
 *Sam has created a game from scratch using Scratch*
 
-You can play Sam's game, SPACEINAVDERS, online <a 
+You can play Sam's game, SPACEINVADERS, online <a 
 href="https://scratch.mit.edu/projects/212236698/">here</a>. 
 Instructions on how to play is to the right of the game.
 
