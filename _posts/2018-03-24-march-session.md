@@ -21,8 +21,7 @@ Nice work embedding YouTube videos in your site, William!
 *Sam has created a game from scratch using Scratch*
 
 You can play Sam's game, SPACEINAVDERS, online <a 
-href="https://scratch.mit.edu/projects/212236698/">here</a>.
-
+href="https://scratch.mit.edu/projects/212236698/">here</a>. 
 Instructions on how to play is to the right of the game.
 
 Great work, Sam ~ thanks for sharing!
