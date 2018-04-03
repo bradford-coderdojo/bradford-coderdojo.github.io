@@ -15,7 +15,17 @@ This morning, we saw some exciting projects during the session.
 *William is busy using his understanding of HTML and CSS to creat his 
 own website to review films and books*
 
-Nice work embedding YouTube videos in his site!
+Nice work embedding YouTube videos in your site, William!
+
+![sam](/assets/2018-03-24-6.jpg)  
+*Sam has created a game from scratch using Scratch*
+
+You can play Sam's game, SPACEINAVDERS, online <a 
+href="https://scratch.mit.edu/projects/212236698/">here</a>.
+
+Instructions on how to play is to the right of the game.
+
+Great work, Sam ~ thanks for sharing!
 
 ![full session](/assets/2018-03-24-4.jpg)  
 *Learning how to create complex games using Curric Innovation Game 
