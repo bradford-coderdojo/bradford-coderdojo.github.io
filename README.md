@@ -32,7 +32,7 @@ layout: post
 3. **Save it as a ```.md``` file**
 4. Your file name should **always start with a date**; ie. ```2018-04-11-Blog-Title.md```
 
-**You can always look at previous posts for examples.**
+**Remember!** You can always look at previous posts for examples if you're unsure.
 
 [```_posts```](https://github.com/bradford-coderdojo/bradford-coderdojo.github.io/tree/master/_posts) - We put all blog posts in this folder.
 
