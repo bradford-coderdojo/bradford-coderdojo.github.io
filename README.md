@@ -12,7 +12,7 @@ Here are some links to help your way around the repo. Do raise an [issue](https:
 
 ### Event dates
 
-[events.yaml](https://github.com/bradford-coderdojo/bradford-coderdojo.github.io/blob/master/_data/events.yaml) - We are always updating dates for upcoming dojos and links to the Eventbrite ticket site.
+[events.yaml](https://github.com/bradford-coderdojo/bradford-coderdojo.github.io/blob/master/_data/events.yaml) - Update dates for upcoming dojos and links to the Eventbrite ticket site.
 
 
 ### Mentor bio
