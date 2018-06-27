@@ -1,22 +1,7 @@
-- name: CoderDojo May
-  date: 2018-05-19
-  time: 09:30 - 12:00
-  detail: Cancelled
-  
-- name: CoderDojo June
-  date: 2018-06-23
-  time: 09:30 - 12:00
-  detail: Available after the previous CoderDojo
-  
-- name: CoderDojo July
-  date: 2018-07-28
-  time: 09:30 - 12:00
-  detail: Available after the previous CoderDojo
-  
-- name: CoderDojo August
+- name: CoderDojo Hiatus
   date:
   time:
-  detail: No Dojo as we will all be on holiday
+  detail: Dojo is on hold until September
   
 - name: CoderDojo September
   date: 2018-09-22
