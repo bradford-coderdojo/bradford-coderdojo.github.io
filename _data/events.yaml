@@ -1,12 +1,7 @@
-- name: CoderDojo Hiatus
-  date:
-  time:
-  detail: Dojo is on hold until September
-  
 - name: CoderDojo September
   date: 2018-09-22
   time: 09:30 - 12:00
-  detail: Available after the previous CoderDojo
+  detail: [Register](https://www.eventbrite.co.uk/e/bradford-coderdojo-september-2018-tickets-49883307315)
   
 - name: CoderDojo October
   date: 2018-10-13
