@@ -8,9 +8,9 @@ date: 25-09-2018
 For getting started enjoy the delights of Louisa's [excellent presentation](Sonic Pi Presentation.pptx) then I suggest get making stuff and post them here.
 
  
-(animal crossing.rb) 
-(drum loop sonic pi.rb) 
-(gravity falls.rb)
-(shi tune.rb) 
-(stranger things.rb) 
-(tetris tune sonic pi.rb) 
+- [Animal crossing](animal crossing.rb) 
+- [Drum loop](drum loop sonic pi.rb) 
+- [Gravity falls](gravity falls.rb)
+- [Shi tune](shi tune.rb) 
+- [Stranger things](stranger things.rb) 
+- [Tetris](tetris tune sonic pi.rb) 
