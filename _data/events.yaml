@@ -1,4 +1,50 @@
-- name: CoderDojo December
-  date: 2018-12-15
+- name: CoderDojo February
+  date: 2019-02-16
   time: 09:30 - 12:00
-  detail: "[Register](https://www.eventbrite.co.uk/e/bradford-coderdojo-december-2018-tickets-52956087082)"
+  detail: "[Register](https://www.eventbrite.co.uk/e/bradford-coderdojo-february-2019-tickets-54595483561)"
+
+- name: CoderDojo March
+  date: 2019-03-30
+  time: 09:30 - 12:00
+  detail: Available after the previous CoderDojo
+
+- name: CoderDojo April
+  date: 2019-04-27
+  time: 09:30 - 12:00
+  detail: Available after the previous CoderDojo
+
+- name: CoderDojo May
+  date: 2019-5-18
+  time: 09:30 - 12:00
+  detail: Available after the previous CoderDojo
+  
+- name: CoderDojo June
+  date: 2019-06-29
+  time: 09:30 - 12:00
+  detail: Available after the previous CoderDojo
+  
+- name: CoderDojo July
+  date: 2019-07-13
+  time: 09:30 - 12:00
+  detail: Available after the previous CoderDojo
+  
+- name: CoderDojo Sept
+  date: 2019-09-28
+  time: 09:30 - 12:00
+  detail: Available after the previous CoderDojo
+  
+- name: CoderDojo Oct
+  date: 2019-10-19
+  time: 09:30 - 12:00
+  detail: Available after the previous CoderDojo
+  
+- name: CoderDojo Nov
+  date: 2019-11-23
+  time: 09:30 - 12:00
+  detail: Available after the previous CoderDojo
+  
+- name: CoderDojo Dec
+  date: 2019-12-14
+  time: 09:30 - 12:00
+  detail: Available after the previous CoderDojo
+  
