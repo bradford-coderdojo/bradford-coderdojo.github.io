@@ -20,4 +20,7 @@ shi and Kriss looking at scripting in Twine.
 ![april4](/assets/2019-04-27-4.jpg)
 Creative writing and narrative storytelling in session.
 
-Come play our adventure games [online here](bradford-coderdojo.github.io/twine/).
+Here's a sneaky peek at a couple of the adventures games we've made.
+
+![april6](/assets/2019-04-27-6.jpg)
+Come play our adventure games [online here](https://bradford-coderdojo.github.io/twine/)!
