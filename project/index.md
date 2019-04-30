@@ -6,10 +6,10 @@ image: dojo-01
 
 Below are some of the projects and plans we've been working on!
 
-- [Twine Adventure games](https://bradford-coderdojo.github.io/twine/)
+- [Twine Adventure games](https://bradford-coderdojo.github.io/twine/)  
     Come play our adventure games using the Twine game engine.
 
-- [Sonic Pi Goodness](/project/sonicpi)
+- [Sonic Pi Goodness](/project/sonicpi)  
     Everyone likes Pi. Eat it up here.
 
 - [The website project](/project/website)  
