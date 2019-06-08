@@ -1,17 +1,7 @@
-- name: CoderDojo April
-  date: 2019-04-27
-  time: 09:30 - 12:00
-  detail: "[Register](https://www.eventbrite.co.uk/e/bradford-coderdojo-april-2019-tickets-60183156441)"
-
-- name: CoderDojo May
-  date: 2019-5-18
-  time: 09:30 - 12:00
-  detail: Available after the previous CoderDojo
-  
 - name: CoderDojo June
   date: 2019-06-29
   time: 09:30 - 12:00
-  detail: Available after the previous CoderDojo
+  detail: "[Register](https://www.eventbrite.co.uk/e/bradford-coderdojo-june-2019-tickets-61988391949)"
   
 - name: CoderDojo July
   date: 2019-07-13
