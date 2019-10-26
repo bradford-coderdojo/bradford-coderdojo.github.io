@@ -16,7 +16,7 @@ Today we're also continuing last month's session on creating adventure games usi
 ![april5](/assets/2019-04-27-5.jpg)  
 shi and Kriss looking at scripting in Twine.
 
-![april2](/assets/2019-04-27-2.jpg)
+![april2](/assets/2019-04-27-2.jpg)  
 ![april4](/assets/2019-04-27-4.jpg)
 Creative writing and narrative storytelling in session.
 
